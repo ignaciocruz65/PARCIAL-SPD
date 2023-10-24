@@ -205,7 +205,8 @@ if (valortstor < 60) {
     }
 ~~~
 
-
+* Parte 4 Cruz
+!![parcial 4](https://github.com/ignaciocruz65/PARCIAL-SPD/assets/112598497/e6e492a0-06b3-45b6-80dc-6800e7488d2d)
 
 
 ## :computer: Link a las partes del proyecto
@@ -214,7 +215,8 @@ if (valortstor < 60) {
 - [PARTE3-FOTODIODO](https://www.tinkercad.com/things/l478FNkO91X-parte3-fotodiodo/editelsharecode=1HDkmttMVKUtayZpagTi39exdRXy2OaSJeZjw96aE8Q)
 - [PARTE3-FOTOTRANSISTOR](https://www.tinkercad.com/things/4VnTgtksKmE-copy-of-copy-of-copy-of-parte-1-spd/editel?sharecode=3ksGDfHUcPz2qOsi7KTN2c4CyMPwowokdw0__vIMKR4)
   
-## :space_invader: Fuentes
+## :space_invade![parcial 4](https://github.com/ignaciocruz65/PARCIAL-SPD/assets/112598497/5524de18-4007-4f43-8907-213a434f95c9)
+r: Fuentes
 
 - [Como documentar en Github](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Motor de CC](https://sdindustrial.com.mx/blog/motor-de-corriente-continua/)
